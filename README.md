@@ -2,7 +2,7 @@
 
 ## Summary 
 
-This repository contains the analysis code and data for the FitBit tracker which helps to deliver marketing and business solutions to WeFit and its subsidiaries using Microsoft Excel.
+This repository contains the source code for the Temperature Converter which helps to convert the given temperature value from one unit to another unit. 
 
 ## Dashboard Sample
 
@@ -27,12 +27,12 @@ This repository contains the analysis code and data for the FitBit tracker which
   
 ## Introduction
 
-In this project, our primary objective is to analyze the data collected from Fitbit fitness datasets. The insights derived from this analysis will play a crucial role in aiding WeFit and its affiliated subsidiaries in making well-informed marketing and business decisions. By delving into the trends associated with using smart devices for health and fitness, we intend to refine and optimize our marketing strategies. Furthermore, our focus extends to identifying potential customers who exhibit a propensity towards investing in personalized diet plans tailored for effective weight loss. Through a comprehensive understanding of these dynamics, we aspire to enhance customer experiences and overall business outcomes.
+In this project, 
 
 ## Business Tasks
 
-There are four tasks in this Excel project-
-Task 1- To find potential customers for selling weight loss plans.
+There are four tasks in Temperature Converter project-
+Task 1- To find equivalent value
 Task 2- To find potential customers for fitwear.
 Task 3- To find potential customers to increase the subscriptions of sleepy nights.
 Task 4- To make the Dashboard for unique id and unique date.
