@@ -6,7 +6,13 @@ This repository contains the analysis code and data for the FitBit tracker which
 
 ## Dashboard Sample
 
-![Screenshot 2023-08-15 155427](https://github.com/Pramod2021-24IT/FitBit_Tracker_using_Excel/assets/95674009/fe7e00f9-dab3-45ef-b1d7-34206e6f528a)
+![image](https://github.com/Pramod2021-24IT/Temperature-Converter/assets/95674009/988cd039-c23b-4997-ae20-5c466ed9826d)
+
+![image](https://github.com/Pramod2021-24IT/Temperature-Converter/assets/95674009/439978c1-bee9-491c-88fd-197d2b1e70ec)
+
+![image](https://github.com/Pramod2021-24IT/Temperature-Converter/assets/95674009/f9009f98-0427-447b-af04-6ccae130dd4b)
+
+
 
 ## Table of Contents
 
